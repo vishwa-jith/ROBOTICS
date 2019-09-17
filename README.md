@@ -1,1 +1,17 @@
+# ROBOTICS OUTLINE
 
+## ***ROBOTICS  WITH EMBEDDED C PROGRAMMING (working with ATmega 16)***
+## TOOLS REQUIRED
+* AT mega16(MICRO CONTROLLER)
+* IC L293D(TYPICAL MOTOR DRIVER IC)
+* 6 PIN RMC CABLE
+* USBasp PROGRAMMER
+* IR SENSORS
+* 2-MOTORS
+* CHASSIS
+## SOFTWARES REQUIRED
+* zadig-2.4
+* WinAVR-20100110-install
+* pn(Programmers notepad)
+* AVR8_Burn-O-Mat_2_1_2_setup(Optional)
+* Terminal
