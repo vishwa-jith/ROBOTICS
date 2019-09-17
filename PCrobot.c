@@ -1,5 +1,5 @@
 #define F_CPU 8000000UL
-#define BAUDRATE 9600
+#define BAUDRATE 9600 //Baud rate of the ATmega 16
 #define myubrr ((F_CPU/(BAUDRATE*16UL)-1))
 #include<avr/io.h>
 #include<util/delay.h>
