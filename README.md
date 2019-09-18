@@ -17,7 +17,7 @@
 * Terminal
 
 ### Installing Zadig-2.4
-Download Zadig-2.4 from the link * [Link to download Zadig-2.4](https://github.com/pbatard/libwdi/releases/download/b721/zadig-2.4.exe)
+Download Zadig-2.4 from the link  [Link to download Zadig-2.4](https://github.com/pbatard/libwdi/releases/download/b721/zadig-2.4.exe)
 ### Setting up Zadig-2.4
-Open the Zadig-2.4 setup file * [Further info](https://rayshobby.net/wordpress/wp-content/uploads/2014/10/zadig_srceenshot.png)
+Open the Zadig-2.4 setup file  [Further info](https://rayshobby.net/wordpress/wp-content/uploads/2014/10/zadig_srceenshot.png)
 
