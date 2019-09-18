@@ -3,7 +3,7 @@
 ## ***ROBOTICS  WITH EMBEDDED C PROGRAMMING (working with ATmega 16)***
 ## TOOLS REQUIRED
 * [AT mega16(MICRO CONTROLLER)](https://raw.githubusercontent.com/vishwa5555/ROBOTICS/master/Atmega%2016_pins%20in%20arduino.PNG?token=ALU5NOTPWHQLHDL3DO3AKUC5QIAYK)
-* [IC L293D(TYPICAL MOTOR DRIVER IC)](https://raw.githubusercontent.com/vishwa5555/ROBOTICS/master/IC_L293D.jpg?token=ALU5NOTHUZP7QCTXJQ3QAUC5QIBHS)
+* [IC L293D(TYPICAL MOTOR DRIVER IC)](https://potentiallabs.com/cart/image/cache/catalog/L293D_1-800x800.jpg)
 * [6 PIN RMC CABLE](https://rarecomponents.com/store/image/cache/data/8Pin_Relimate_Connector_Female_Female-500x500.jpg)
 * [USBasp PROGRAMMER](https://www.fischl.de/usbasp/bilder/usbasp_print.jpg)
 * [IR SENSORS](https://images-na.ssl-images-amazon.com/images/I/61gbfMxD%2BrL._SX342_.jpg)
