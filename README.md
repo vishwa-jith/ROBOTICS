@@ -120,7 +120,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [X] IR sensors & RMC cable P[2]
   - [ ] IR sensors & RMC cable P[3]
 ## TABLE TOP ROBOT
-### NUMBER OF CASES = 13 (2^NUMBER OF SENSORS) => 2^4 => 16 (ONLY 13 CASES ARE VALID ON A TABLE)
+### NUMBER OF CASES = 13 (2^NUMBER OF SENSORS) = 2^4 = 16 (ONLY 13 CASES ARE VALID ON A TABLE)
 ### DESCRIPTION
   - [X] Forward
   - [X] Reverse
