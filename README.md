@@ -32,7 +32,8 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
 - [X] Setting up Zadig-2.4(libusb-win32(v1.2.6.0))
 - [X] Setting up WinAVR-20100110
 - [X] Installing Programmers notepad
-## SIMPLE LINE FOLLOWER
+## [SIMPLE LINE FOLLOWER](http://www.legoengineering.com/wp-content/uploads/2015/01/image004.jpg)
+### NUMBER OF CASES = 4
 ### DESCRIPTION
   - [X] Forward
   - [X] Reverse
@@ -45,6 +46,8 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [ ] DDRB(PART B)
   - [ ] DDRC(PART C)
   - [ ] DDRD(PART D)
+  - [ ] UART REGISTER
+  - [ ] ADC REGISTER
 ### OUTPUT PART IN ATmega 16
   - [ ] DDRA(PART A)
   - [X] DDRB(PART B)
@@ -56,6 +59,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [ ] IR sensors & RMC cable P[2]
   - [ ] IR sensors & RMC cable P[3]
 ## LINE FOLLOWER WITH BEEP
+### NUMBER OF CASES MOTION = 5
 ### DESCRIPTION
   - [X] Forward
   - [X] Reverse
@@ -68,6 +72,8 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [ ] DDRB(PART B)
   - [ ] DDRC(PART C)
   - [ ] DDRD(PART D)
+  - [ ] UART REGISTER
+  - [ ] ADC REGISTER
 ### OUTPUT PART IN ATmega 16
   - [ ] DDRA(PART A)
   - [X] DDRB(PART B)
@@ -78,7 +84,8 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [X] IR sensors & RMC cable P[1]
   - [ ] IR sensors & RMC cable P[2]
   - [ ] IR sensors & RMC cable P[3]
-## OBSTACLE DETECTOR
+## OBSTACLE AVOIDER ROBOT
+### NUMBER OF CASES = 2^3 = 8
 ### DESCRIPTION
   - [X] Forward
   - [X] Reverse
@@ -91,6 +98,8 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [ ] DDRB(PART B)
   - [ ] DDRC(PART C)
   - [ ] DDRD(PART D)
+  - [ ] UART REGISTER
+  - [ ] ADC REGISTER
 ### OUTPUT PART IN ATmega 16
   - [ ] DDRA(PART A)
   - [X] DDRB(PART B)
@@ -102,6 +111,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [X] IR sensors & RMC cable P[2]
   - [ ] IR sensors & RMC cable P[3]
 ## TABLE TOP ROBOT
+### NUMBER OF CASES = 13 (2^NUMBER OF SENSORS) => 2^4 => 16 (ONLY 13 CASES ARE VALID ON A TABLE)
 ### DESCRIPTION
   - [X] Forward
   - [X] Reverse
@@ -114,6 +124,8 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [ ] DDRB(PART B)
   - [ ] DDRC(PART C)
   - [ ] DDRD(PART D)
+  - [ ] UART REGISTER
+  - [ ] ADC REGISTER
 ### OUTPUT PART IN ATmega 16
   - [ ] DDRA(PART A)
   - [X] DDRB(PART B)
@@ -125,6 +137,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [X] IR sensors & RMC cable P[2]
   - [X] IR sensors & RMC cable P[3]
 ## SPEED CONTROL ROBOT
+### NUMBER OF CASES = 8
 ### DESCRIPTION
   - [X] Forward
   - [X] Reverse
@@ -137,6 +150,34 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [ ] DDRB(PART B)
   - [ ] DDRC(PART C)
   - [ ] DDRD(PART D)
+  - [ ] UART REGISTER
+  - [X] ADC REGISTER
+### OUTPUT PART IN ATmega 16
+  - [ ] DDRA(PART A)
+  - [X] DDRB(PART B)
+  - [ ] DDRC(PART C)
+  - [ ] DDRD(PART D)
+### IR SENSORS AND RMC CABLES
+  - [ ] IR sensors & RMC cable P[0]
+  - [ ] IR sensors & RMC cable P[1]
+  - [ ] IR sensors & RMC cable P[2]
+  - [ ] IR sensors & RMC cable P[3]
+## PC CONTROL ROBOT
+### NUMBER OF CASES = 2^2 =4
+### DESCRIPTION
+  - [X] Forward = w
+  - [X] Reverse = s
+  - [X] Right = d
+  - [X] Left = a
+  - [ ] Beep at marker
+  - [ ] Delay
+### INPUT PART IN ATmega 16
+  - [ ] DDRA(PART A)
+  - [ ] DDRB(PART B)
+  - [ ] DDRC(PART C)
+  - [ ] DDRD(PART D)
+  - [X] UART REGISTER
+  - [ ] ADC REGISTER
 ### OUTPUT PART IN ATmega 16
   - [ ] DDRA(PART A)
   - [X] DDRB(PART B)
