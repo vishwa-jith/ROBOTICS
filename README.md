@@ -15,7 +15,6 @@
 * pn(Programmers notepad)
 * AVR8_Burn-O-Mat_2_1_2_setup(Optional)
 * Terminal
-
 ### Installing Zadig-2.4
 Download Zadig-2.4 from the link  [Link to download Zadig-2.4](https://github.com/pbatard/libwdi/releases/download/b721/zadig-2.4.exe)
 ### Setting up Zadig-2.4
@@ -28,10 +27,20 @@ Open the WinAVR-20100110 setup file  [Help1 ](https://cdn.instructables.com/FPU/
 Download Programmers notepad from the link  [Link to download Programmers notepad](https://github.com/simonsteele/pn/releases/download/v2.4.2/pn2421440_multilang.exe)
 ### Setting up Programmers notepad
 Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/courses/clab/Software/Windows/mapcode.gif)
+## Steps to be followed....to setup Makefile...
+* Open the WinAVR directory and open [MakeFile](http://www.indianbeantree.co.uk/wiki/images/f/f1/MFstep01.png) application or by searching...[continue](http://www.indianbeantree.co.uk/wiki/images/9/9b/MFstep02.png).
+* Select **[MCU_type](http://www.indianbeantree.co.uk/wiki/images/0/0d/MFstep06.png)** in Makefile bar and set **ATmega 16** as MCU_type.
+* Select **[Enabe Editing in Makefile](http://www.indianbeantree.co.uk/wiki/images/c/c8/MFstep12.png)** in Makefile bar.
+* Search for **[AVRDUDE_PROGRAMMER](http://www.indianbeantree.co.uk/wiki/images/8/88/MFstep09.png)** in the Makefile and change it to **usblib**.
+* Select **[Port](http://www.indianbeantree.co.uk/wiki/images/0/01/MFstep10.png)** in Makefile bar and set **usb** as Port.
+* Search for **[F_MCU](http://www.indianbeantree.co.uk/wiki/images/4/43/MFstep14.png)** in the Makefile and change it to **8000000** (Freedom of control unit is 8000000 in ATmega 16).
+* Save the Makefile in a new folder and continue programming in the folder where the Make file is placed at.
+* Set the Target before compliation of the program [Main file name...](http://www.indianbeantree.co.uk/wiki/images/7/7a/MFstep03.png).
 # **GETTING STARTED WITH**
 - [X] Setting up Zadig-2.4(libusb-win32(v1.2.6.0))
 - [X] Setting up WinAVR-20100110
 - [X] Installing Programmers notepad
+- [X] Making the setup MakeFile
 ## [SIMPLE LINE FOLLOWER](http://www.legoengineering.com/wp-content/uploads/2015/01/image004.jpg)
 ### NUMBER OF CASES = 4
 ### DESCRIPTION
