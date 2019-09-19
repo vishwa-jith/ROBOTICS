@@ -41,7 +41,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
 - [X] Setting up WinAVR-20100110
 - [X] Installing Programmers notepad
 - [X] Making the setup MakeFile
-## [SIMPLE LINE FOLLOWER](http://www.legoengineering.com/wp-content/uploads/2015/01/image004.jpg)
+## ***[SIMPLE LINE FOLLOWER](http://www.legoengineering.com/wp-content/uploads/2015/01/image004.jpg)***
 ### NUMBER OF CASES = 2<sup>2</sup> = 4
 ### DESCRIPTION
   - [X] Forward
@@ -67,7 +67,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [X] IR sensors & RMC cable P[1]
   - [ ] IR sensors & RMC cable P[2]
   - [ ] IR sensors & RMC cable P[3]
-## LINE FOLLOWER WITH BEEP
+## ***LINE FOLLOWER WITH BEEP***
 ### NUMBER OF CASES = 2<sup>2</sup>+1 = 5
 ### DESCRIPTION
   - [X] Forward
@@ -93,7 +93,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [X] IR sensors & RMC cable P[1]
   - [ ] IR sensors & RMC cable P[2]
   - [ ] IR sensors & RMC cable P[3]
-## OBSTACLE AVOIDER ROBOT
+## ***OBSTACLE AVOIDER ROBOT***
 ### NUMBER OF CASES = 2<sup>3</sup> = 8
 ### DESCRIPTION
   - [X] Forward
@@ -119,7 +119,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [X] IR sensors & RMC cable P[1]
   - [X] IR sensors & RMC cable P[2]
   - [ ] IR sensors & RMC cable P[3]
-## TABLE TOP ROBOT
+## ***TABLE TOP ROBOT***
 ### NUMBER OF CASES = 13 (2<sup>NUMBER OF SENSORS</sup>) = 2<sup>4</sup> = 16 (ONLY 13 CASES ARE VALID ON A TABLE)
 ### DESCRIPTION
   - [X] Forward
@@ -145,7 +145,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [X] IR sensors & RMC cable P[1]
   - [X] IR sensors & RMC cable P[2]
   - [X] IR sensors & RMC cable P[3]
-## SPEED CONTROL ROBOT
+## ***SPEED CONTROL ROBOT***
 ### NUMBER OF CASES = 8
 ### DESCRIPTION
   - [X] Forward
@@ -171,7 +171,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [ ] IR sensors & RMC cable P[1]
   - [ ] IR sensors & RMC cable P[2]
   - [ ] IR sensors & RMC cable P[3]
-## PC CONTROL ROBOT
+## ***PC CONTROL ROBOT***
 ### NUMBER OF CASES = 2<sup>2</sup> =4
 ### DESCRIPTION
   - [X] Forward = w
