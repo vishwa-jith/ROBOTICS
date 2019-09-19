@@ -1,4 +1,4 @@
-# ROBOTICS OUTLINE
+# **ROBOTIC WORKS**
 
 ## ***ROBOTICS  WITH EMBEDDED C PROGRAMMING (working with ATmega 16)***
 ## TOOLS REQUIRED
@@ -32,9 +32,11 @@ Open the WinAVR-20100110 setup file  [Help1 ](https://cdn.instructables.com/FPU/
 * Search for **[F_MCU](http://www.indianbeantree.co.uk/wiki/images/4/43/MFstep14.png)** in the Makefile and change it to **8000000** (F_MCU is 8000000 in ATmega 16).
 * Save the Makefile in a new folder and continue programming in the folder where the Make file is placed at.
 * Set the Target before compliation of the program [Main file name...](http://www.indianbeantree.co.uk/wiki/images/7/7a/MFstep03.png).
-## Steps to be followed....to Programmers notepad...
+## Steps to be followed....to setup Programmers notepad...
 * Open the WinAVR directory and open pn application or by searching...
 * Code the program in the **programmers notepad** and save the file as **c source** file in the folder where the Makefile setup is placed.
+## *NOTE*
+  * PC control robot requires *Terminal* for providing commands the Terminal software which is made available in the main repository.
 # **GETTING STARTED WITH**
 - [X] Setting up Zadig-2.4(libusb-win32(v1.2.6.0))
 - [X] Setting up WinAVR-20100110
