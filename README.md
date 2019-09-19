@@ -33,7 +33,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
 * Select **[Enabe Editing in Makefile](http://www.indianbeantree.co.uk/wiki/images/c/c8/MFstep12.png)** in Makefile bar.
 * Search for **[AVRDUDE_PROGRAMMER](http://www.indianbeantree.co.uk/wiki/images/8/88/MFstep09.png)** in the Makefile and change it to **usblib**.
 * Select **[Port](http://www.indianbeantree.co.uk/wiki/images/0/01/MFstep10.png)** in Makefile bar and set **usb** as Port.
-* Search for **[F_MCU](http://www.indianbeantree.co.uk/wiki/images/4/43/MFstep14.png)** in the Makefile and change it to **8000000** (Freedom of control unit is 8000000 in ATmega 16).
+* Search for **[F_MCU](http://www.indianbeantree.co.uk/wiki/images/4/43/MFstep14.png)** in the Makefile and change it to **8000000** (F_MCU is 8000000 in ATmega 16).
 * Save the Makefile in a new folder and continue programming in the folder where the Make file is placed at.
 * Set the Target before compliation of the program [Main file name...](http://www.indianbeantree.co.uk/wiki/images/7/7a/MFstep03.png).
 # **GETTING STARTED WITH**
