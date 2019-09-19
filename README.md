@@ -42,7 +42,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
 - [X] Installing Programmers notepad
 - [X] Making the setup MakeFile
 ## [SIMPLE LINE FOLLOWER](http://www.legoengineering.com/wp-content/uploads/2015/01/image004.jpg)
-### NUMBER OF CASES = 4
+### NUMBER OF CASES = 2<sup>2</sup> = 4
 ### DESCRIPTION
   - [X] Forward
   - [X] Reverse
@@ -68,7 +68,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [ ] IR sensors & RMC cable P[2]
   - [ ] IR sensors & RMC cable P[3]
 ## LINE FOLLOWER WITH BEEP
-### NUMBER OF CASES MOTION = 5
+### NUMBER OF CASES = 2<sup>2</sup>+1 = 5
 ### DESCRIPTION
   - [X] Forward
   - [X] Reverse
@@ -94,7 +94,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [ ] IR sensors & RMC cable P[2]
   - [ ] IR sensors & RMC cable P[3]
 ## OBSTACLE AVOIDER ROBOT
-### NUMBER OF CASES = 2^3 = 8
+### NUMBER OF CASES = 2<sup>3</sup> = 8
 ### DESCRIPTION
   - [X] Forward
   - [X] Reverse
@@ -120,7 +120,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [X] IR sensors & RMC cable P[2]
   - [ ] IR sensors & RMC cable P[3]
 ## TABLE TOP ROBOT
-### NUMBER OF CASES = 13 (2^NUMBER OF SENSORS) = 2^4 = 16 (ONLY 13 CASES ARE VALID ON A TABLE)
+### NUMBER OF CASES = 13 (2<sup>NUMBER OF SENSORS</sup>) = 2<sup>4</sup> = 16 (ONLY 13 CASES ARE VALID ON A TABLE)
 ### DESCRIPTION
   - [X] Forward
   - [X] Reverse
@@ -172,7 +172,7 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
   - [ ] IR sensors & RMC cable P[2]
   - [ ] IR sensors & RMC cable P[3]
 ## PC CONTROL ROBOT
-### NUMBER OF CASES = 2^2 =4
+### NUMBER OF CASES = 2<sup>2</sup> =4
 ### DESCRIPTION
   - [X] Forward = w
   - [X] Reverse = s
