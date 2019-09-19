@@ -23,10 +23,6 @@ Open the Zadig-2.4 setup file  [Further info](https://rayshobby.net/wordpress/wp
 Download WinAVR-20100110-install from the link  [Link to download WinAVR-20100110](https://sourceforge.net/projects/winavr/files/WinAVR/20100110/WinAVR-20100110-install.exe/download)
 ### Setting up WinAVR-20100110
 Open the WinAVR-20100110 setup file  [Help1 ](https://cdn.instructables.com/FPU/L6JT/J6QQUH5F/FPUL6JTJ6QQUH5F.LARGE.jpg?auto=webp&width=1024&fit=bounds)[Help2](https://cdn.instructables.com/FPU/L6JT/J6QQUH5F/FPUL6JTJ6QQUH5F.LARGE.jpg?auto=webp&width=1024&fit=bounds)
-### Installing Programmers notepad
-Download Programmers notepad from the link  [Link to download Programmers notepad](https://github.com/simonsteele/pn/releases/download/v2.4.2/pn2421440_multilang.exe)
-### Setting up Programmers notepad
-Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/courses/clab/Software/Windows/mapcode.gif)
 ## Steps to be followed....to setup Makefile...
 * Open the WinAVR directory and open [MakeFile](http://www.indianbeantree.co.uk/wiki/images/f/f1/MFstep01.png) application or by searching...[continue](http://www.indianbeantree.co.uk/wiki/images/9/9b/MFstep02.png).
 * Select **[MCU_type](http://www.indianbeantree.co.uk/wiki/images/0/0d/MFstep06.png)** in Makefile bar and set **ATmega 16** as MCU_type.
@@ -36,6 +32,9 @@ Open the Programmers notepad setup file  [Help](http://csc.ucdavis.edu/~chaos/co
 * Search for **[F_MCU](http://www.indianbeantree.co.uk/wiki/images/4/43/MFstep14.png)** in the Makefile and change it to **8000000** (F_MCU is 8000000 in ATmega 16).
 * Save the Makefile in a new folder and continue programming in the folder where the Make file is placed at.
 * Set the Target before compliation of the program [Main file name...](http://www.indianbeantree.co.uk/wiki/images/7/7a/MFstep03.png).
+## Steps to be followed....to Programmers notepad...
+* Open the WinAVR directory and open pn application or by searching...
+* Code the program in the **programmers notepad** and save the file as **c source** file in the folder where the Makefile setup is placed.
 # **GETTING STARTED WITH**
 - [X] Setting up Zadig-2.4(libusb-win32(v1.2.6.0))
 - [X] Setting up WinAVR-20100110
