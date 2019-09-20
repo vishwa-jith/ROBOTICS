@@ -42,6 +42,13 @@ Open the WinAVR-20100110 setup file  [Help1 ](https://cdn.instructables.com/FPU/
 - [X] Setting up WinAVR-20100110
 - [X] Installing Programmers notepad
 - [X] Making the setup MakeFile
+# Movements in robot...
+|  **Left sensor** | **Right sensor** | **Action desired**|**Left motor** |**Right motor** |
+|------------------|------------------|-------------------|---------------|----------------|
+|       LOW        |       LOW        |   Move straight   |    Forward    |    Forward     |
+|       HIGH       |       LOW        |   Turn left       |    Forward    |    Forward     |
+|       LOW        |       HIGH       |   Turn right      |    Forward    |    Reverse     |
+|       HIGH       |       HIGH       |   Reverse         |    Reverse    |    Reverse     |
 ## ***[SIMPLE LINE FOLLOWER](http://www.legoengineering.com/wp-content/uploads/2015/01/image004.jpg)***
 ### NUMBER OF CASES = 2<sup>2</sup> = 4
 ### DESCRIPTION
