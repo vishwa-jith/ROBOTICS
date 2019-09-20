@@ -6,7 +6,7 @@ void main()
 	DDRB=0b11111111;	//Output port
 	PORTA=0b11111111;	//Pulling up of Input port
 	int c;
-	/*IR Sensor input pins PA[0],PA[1] */
+	/* IR Sensor input pins PA[0],PA[1] */
 	while(1)
 	{
 		c=PINA;		//Reading the Port A input 
