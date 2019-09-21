@@ -1,6 +1,6 @@
 # **ROBOTIC WORKS**
 
-## ***ROBOTICS  WITH EMBEDDED C PROGRAMMING (working with ATmega 16)***
+## ***ROBOTICS  WITH EMBEDDED C PROGRAMMING (working with ATmega 16 )***
 ## TOOLS REQUIRED
 * [AT mega16(MICRO CONTROLLER)](https://www.theengineeringprojects.com/wp-content/uploads/2018/06/introduction-to-atmega16-5-1.png)
 * [IC L293D(TYPICAL MOTOR DRIVER IC)](https://potentiallabs.com/cart/image/cache/catalog/L293D_1-800x800.jpg)
